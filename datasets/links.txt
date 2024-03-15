@@ -1,0 +1,12 @@
+[FIFA] FIFA 20 complete player dataset: https://www.kaggle.com/datasets/stefanoleone992/fifa-20-complete-player-dataset
+[COVID] COVID 19 dataset: https://www.kaggle.com/datasets/imdevskp/corona-virus-report
+[911] Emergency - 911 calls: https://www.kaggle.com/datasets/mchirico/montcoalert
+[ECOMM] Brazilian E-commerce Public Dataset: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+[FOOTBALL] Football Events: https://www.kaggle.com/datasets/secareanualin/football-events
+[DSG] Data Science for Good - Kiva Crowdfunding: https://www.kaggle.com/datasets/kiva/data-science-for-good-kiva-crowdfunding
+[HOTEL] 515k Hotel Reviews Data in Europe: https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe
+[BITCOIN] Bitcoin Historical Data: https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
+[FITBIT] Fitbit Fitness Tracker Data: https://www.kaggle.com/datasets/arashnic/fitbit
+[ACCIDENT] US Accidents 2019: https://drive.google.com/file/d/1-uePluCnhkyQPP392_Yt95dQyKHfd5lJ/view?usp=sharing
+[NYC] NYC parking tickets 2014: https://www.kaggle.com/datasets/new-york-city/nyc-parking-tickets/
+[FLIGHT] Flight status prediction 2018-1: https://www.kaggle.com/datasets/robikscube/flight-delay-dataset-20182022
