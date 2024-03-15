@@ -59,6 +59,8 @@ To prototype split dataframes in Ibis, we implemented a query rewriting layer fo
 
 ```
 cat requirements.txt | xargs -n 1 pip install
+git submodule init
+git submodule update
 cd ibis
 sudo apt install libpq-dev
 pip install 'poetry==1.8.2'
