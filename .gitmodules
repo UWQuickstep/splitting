@@ -1,0 +1,3 @@
+[submodule "ibis"]
+	path = ibis
+	url = https://github.com/UWQuickstep/ibis.git
